@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "721522355523",
+    "firebase_url": "https://ssb-project-78e02.firebaseio.com",
+    "project_id": "ssb-project-78e02",
+    "storage_bucket": "ssb-project-78e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721522355523:android:03180c7540db1ebd",
+        "android_client_info": {
+          "package_name": "com.project.ssb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721522355523-4fh972jtdj38ek4glarhksb9cb5lnbd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.ssb",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "721522355523-mik1l61lmagc7eggqk73m17midks8mie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5sGCoQEMTXhMwC6C7lPLBFirbvMcg10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721522355523-mik1l61lmagc7eggqk73m17midks8mie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721522355523:android:5c5891cd563884b2",
+        "android_client_info": {
+          "package_name": "com.shuttlestudentbus.ssb_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721522355523-mik1l61lmagc7eggqk73m17midks8mie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5sGCoQEMTXhMwC6C7lPLBFirbvMcg10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721522355523-mik1l61lmagc7eggqk73m17midks8mie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
